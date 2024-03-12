@@ -33,4 +33,4 @@ print(d)
 
 
 ### RESULT:
-Thus the distance between two points is succesfully completed.
+Thus the program to find the distance between two points is succesfully completed.
